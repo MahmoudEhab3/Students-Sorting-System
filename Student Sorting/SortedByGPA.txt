@@ -1,0 +1,56 @@
+Algorithm: Insertion Sort
+Mohamed Kamal  97848  3.9
+Mariam  69712  3.6
+Ali  3541  2.8
+Sara Ahmed  78697  2.5
+Total comparisons of insertion sort is : 9
+Insertion Sort by GPA took: 19 microseconds
+--------------------------------------------
+Algorithm: Selection Sort
+Mohamed Kamal  97848  3.9
+Mariam  69712  3.6
+Ali  3541  2.8
+Sara Ahmed  78697  2.5
+Total comparisons of selection sort is : 6
+Selection Sort by GPA took: 19 microseconds
+--------------------------------------------
+Algorithm: Bubble Sort 
+Mohamed Kamal  97848  3.9
+Mariam  69712  3.6
+Ali  3541  2.8
+Sara Ahmed  78697  2.5
+Total comparisons of bubble sort is : 6
+Bubble Sort by GPA took: 25 microseconds
+--------------------------------------------
+Algorithm: Shell Sort 
+Mohamed Kamal  97848  3.9
+Mariam  69712  3.6
+Ali  3541  2.8
+Sara Ahmed  78697  2.5
+Total comparisons of shell sort is : 9
+Shell Sort by GPA took: 20 microseconds
+--------------------------------------------
+Algorithm: count Sort 
+Mohamed Kamal  97848  3
+Mariam  69712  3
+Ali  3541  2
+Sara Ahmed  78697  2
+Total comparisons of count sort is : 0
+Count Sort by GPA took: 16 microseconds
+--------------------------------------------
+Algorithm: Merge Sort
+Mohamed Kamal  97848  3.9
+Mariam  69712  3.6
+Ali  3541  2.8
+Sara Ahmed  78697  2.5
+Total comparisons of merge sort is : 8
+Merge Sort by GPA took: 19 microseconds
+--------------------------------------------
+Algorithm: Quick Sort
+Mohamed Kamal  97848  3.9
+Mariam  69712  3.6
+Ali  3541  2.8
+Sara Ahmed  78697  2.5
+Total comparisons of quick sort is : 6
+Quick Sort by GPA took: 17 microseconds
+--------------------------------------------

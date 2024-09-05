@@ -1,0 +1,18 @@
+Number of comparisons of Insertion Sort :
+Best case : O(n) 
+Worst case : O(n*n)
+Number of comparisons of Selection Sort :
+Every case : O(n*n)
+Number of comparisons of Bubble Sort :
+Best case : O(n) enhanced with flag
+Worst case : O(n*n)
+Number of comparisons of Shell Sort :
+Best case : O(nlogn)
+Worst case : O(n*n)
+Number of comparisons of Merge Sort :
+Every case : O(nlogn)
+Number of comparisons of Quick Sort :
+Best case : O(nlogn)
+Worst case : O(n*n) if pivot always equal to first element
+Number of comparisons of Count Sort :
+Every case : 0

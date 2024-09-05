@@ -1,0 +1,48 @@
+Algorithm: Insertion Sort
+Ali  3541  2.8
+Mariam  69712  3.6
+Mohamed Kamal  97848  3.9
+Sara Ahmed  78697  2.5
+Total comparisons of insertion sort is : 6
+Insertion Sort by Name took: 58 microseconds
+--------------------------------------------
+Algorithm: Selection Sort
+Ali  3541  2.8
+Mariam  69712  3.6
+Mohamed Kamal  97848  3.9
+Sara Ahmed  78697  2.5
+Total comparisons of selection sort is : 6
+Selection Sort by Name took: 21 microseconds
+--------------------------------------------
+Algorithm: Bubble Sort
+Ali  3541  2.8
+Mariam  69712  3.6
+Mohamed Kamal  97848  3.9
+Sara Ahmed  78697  2.5
+Total comparisons of bubble sort is : 9
+Bubble Sort by Name took: 35 microseconds
+--------------------------------------------
+Algorithm: Shell Sort
+Ali  3541  2.8
+Mariam  69712  3.6
+Mohamed Kamal  97848  3.9
+Sara Ahmed  78697  2.5
+Total comparisons of shell sort is : 8
+Shell Sort by Name took: 37 microseconds
+--------------------------------------------
+Algorithm: Merge Sort
+Ali  3541  2.8
+Mariam  69712  3.6
+Mohamed Kamal  97848  3.9
+Sara Ahmed  78697  2.5
+Total comparisons of merge sort is : 8
+Merge Sort by Name took: 43 microseconds
+--------------------------------------------
+Algorithm: Quick Sort
+Ali  3541  2.8
+Mariam  69712  3.6
+Mohamed Kamal  97848  3.9
+Sara Ahmed  78697  2.5
+Total comparisons of quick sort is : 6
+Quick Sort by Name took: 35 microseconds
+--------------------------------------------
