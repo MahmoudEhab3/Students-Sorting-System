@@ -4,13 +4,13 @@ Sorting Students by GPA and Name
 Project Overview
 This C++ project demonstrates the use of seven different sorting algorithms to sort a list of students based on their GPA and names. The algorithms implemented include:
 
-Insertion Sort
-Selection Sort
-Bubble Sort
-Shell Sort
-Counting Sort
-Merge Sort
-Quick Sort
+1-Insertion Sort
+2-Selection Sort
+3-Bubble Sort
+4-Shell Sort
+5-Counting Sort
+6-Merge Sort
+7-Quick Sort
 Each algorithm sorts the list of students by GPA and also analyzes the time and the number of comparisons taken to perform the sort.
 
 Features
